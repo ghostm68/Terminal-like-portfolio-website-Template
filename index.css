@@ -1,10 +1,8 @@
 body {
-	
+	background-color: #000
 }
-background: url(VAPORGRAM1644443170715.gif) no-repeat center center fixed; 
 
-  background-size: cover;
-}
+  
 #console {
 	font-family: courier, monospace;
 	color: #fff;
