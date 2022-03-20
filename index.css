@@ -1,8 +1,8 @@
 .bgSizeContain {
   background-image: url(https://github.com/ghostm68/Terminal-like-portfolio-website-Template/blob/94bae06b235cf9c52b7e9a830d8911229cf56315/cristina.gif);
   background-size: cover;
-  width: 160px;
-  height: 160px;
+   width:100%;
+  height:100%;
   border: 2px solid;
   color: pink;
   resize: both;
